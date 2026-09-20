@@ -1,0 +1,15 @@
+# No subir secretos ni aplicaciones fuente
+.env
+.env.*
+*.secret
+*.secrets
+credentials*
+credenciales*
+tokens*
+apps/
+apps-source/
+backend/
+apps_script/
+*.log
+.DS_Store
+Thumbs.db
