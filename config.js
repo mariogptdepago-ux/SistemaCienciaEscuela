@@ -10,7 +10,7 @@
 
 Ejemplo:
 window.APP_SPACING_CONFIG = {
-  appsScriptUrl: "https://script.google.com/macros/s/XXXXXXXXXXXX/exec"
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbx4e0rdcfuEmgvgOszvhHcj-MGa9tqBdfHdB-lf87KcxeXkE91h_EWXIM0Diq0hB3nX/exec"
 };
 
 No escribas contraseñas, tokens ni secretos en este archivo.
