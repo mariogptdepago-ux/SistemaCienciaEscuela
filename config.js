@@ -18,5 +18,5 @@ No escribas contraseñas, tokens ni secretos en este archivo.
 */
 
 window.APP_SPACING_CONFIG = Object.freeze({
-  appsScriptUrl: "https://script.google.com/macros/s/AKfycbypqKMChHmtZWf3vkNlGNU2ox8nVaEWZ2BrxxJEOIBcxP9eJB9SRScFhNfBrpNgsNye/exec"
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbwtSB7gnvE2lOqiTZUSPVyu7PAhu_Zpmi28EFuG-Zjsj39341kZwDYZNzRoNMVb-ATg/exec"
 });
